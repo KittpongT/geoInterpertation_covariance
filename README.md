@@ -1,1 +1,1 @@
-# geoInterpertation_covariance
+# geoInterpretation_covariance
